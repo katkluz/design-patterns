@@ -5,7 +5,7 @@
 
 ## Intent
 The API Gateway is a single location where all the calls to microservices are aggregated to. The user makes a single call to the API Gateway, 
-and the API Gateway then calls each revelant microservices. 
+and the API Gateway then calls each relevant microservices. 
 
 ## Explanation  
 A client may need data from multiple different microservices. If the client called each microservice directla, tht could contribute to longer load times,
