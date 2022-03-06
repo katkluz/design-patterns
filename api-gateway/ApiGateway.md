@@ -28,3 +28,10 @@ The implementation shows what the API Gateway pattern could look like for an e-c
 ## Applicability
 Use the API Gateway when
 - you're using microservices architecture and need a single point of aggregation for your microservice calls.
+
+## Related links
+- [microservices.io - API Gateway](http://microservices.io/patterns/apigateway.html)
+- [NGINX - Building Microservices: Using an API Gateway](https://www.nginx.com/blog/building-microservices-using-an-api-gateway/)
+- [Microservices Patterns: With examples in Java](https://www.amazon.com/gp/product/1617294543/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=javadesignpat-20&creative=9325&linkCode=as2&creativeASIN=1617294543&linkId=ac7b6a57f866ac006a309d9086e8cfbd)
+- [Building Microservices: Designing Fine-Grained Systems](https://www.amazon.com/gp/product/1491950358/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=javadesignpat-20&creative=9325&linkCode=as2&creativeASIN=1491950358&linkId=4c95ca9831e05e3f0dadb08841d77bf1)
+
